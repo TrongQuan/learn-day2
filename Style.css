@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 1, 2020, 9:49:48 AM
+    Author     : LE TRONG QUAN
+*/
+body {
+    background-color: lightblue;
+    font-family: verdana;
+    font-size: 100%;
+}
+#style {
+    margin-top: 250px;
+    margin-left: 450px;
+    font-size: 20px;
+    color: red;
+    background-color: green;
+    display: inline-block;
+    padding: 20px;
+    cursor: pointer;
+}
